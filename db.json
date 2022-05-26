@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Aniket",
+      "email": "abc@gmail.com",
+      "password": "Abc@123456",
+      "mNumber": "8855669955",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Hello",
+      "email": "sfrbgh@gmail.com",
+      "password": "Abdbvc@123456",
+      "mNumber": "8825669955",
+      "gender": "Male"
+    },
+    {
+      "id": 1653298700084,
+      "name": "Darshil",
+      "email": "Db@gmail.com",
+      "password": "Dbb123@@",
+      "mNumber": "6655889988",
+      "gender": "Male"
+    }
+  ],
+  "products":[
+    {
+      "id":1,
+      "name":"Extra Power Sunglasses",
+      "image":"../images/s3.png",
+      "description":"Most Choice",
+      "price":450
+    },
+    {
+      "id":2,
+      "name":"Rainbow Colour Sunglasses",
+      "image":"../images/s1.png",
+      "description":"Most Choice",
+      "price":350
+    },
+    {
+      "id":3,
+      "name":"Blue Colour Sunglasses",
+      "image":"../images/s2.png",
+      "description":"Most Choice",
+      "price":250
+    }
+  ]
+}
